@@ -1,1 +1,29 @@
 /* Put your custom CSS here */
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  box-sizing: border-box;
+}
+.container {
+  margin: 0.2rem;
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
+
+.movieSelect {
+  margin: 0.4rem;
+}
+.right {
+  width: 50%;
+}
+
+h5{
+  margin: 0.4rem;
+}
+
+58972a3b
